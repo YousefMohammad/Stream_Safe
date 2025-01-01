@@ -42,8 +42,6 @@ A robust and scalable system for real-time transaction monitoring using Kafka, M
 - **Consumer**: Processes data, detects anomalies, and stores results in MongoDB while updating live visualizations.
 - **Database**: MongoDB stores transaction data for persistence and analytics.
 
-![Architecture](https://via.placeholder.com/800x400?text=System+Architecture)
-
 ## Requirements
 
 - Python 3.8+
